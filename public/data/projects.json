@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "name": "Ideavault HK",
+        "title": "Fintech Platform HK Based",
+        "description": "Ideavault HK is a fintech platform based in Hong Kong, providing innovative solutions for the financial industry.",
+        "link": "https://ideavaulthk.com",
+        "images": [
+            "/images/projects/ideavault/0.png",
+            "/images/projects/ideavault/1.png",
+            "/images/projects/ideavault/2.png",
+            "/images/projects/ideavault/3.png",
+            "/images/projects/ideavault/4.png",
+            "/images/projects/ideavault/5.png"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Business Unlimited",
+        "title": "Business Advisory",
+        "description": "Business Unlimited is a trusted business advisory service provider, offering expert guidance and strategic solutions to help businesses thrive and achieve their goals.",
+        "link": "https://business-unlimited-website.vercel.app/",
+        "images": [
+            "/images/projects/business-unlimited/0.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Terra Ats",
+        "title": "Web Development and Marketing Platform",
+        "description": "Terra Ats is a comprehensive platform offering web development and marketing services to help businesses establish a strong online presence.",
+        "link": "https://terraats.com/",
+        "images": [
+            "/images/projects/terraats/1.png"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Big Wig",
+        "title": "Plywood Manufacturer",
+        "description": "Big Wig is a prominent plywood manufacturer, producing high-quality wood products used in construction, furniture, and other industries.",
+        "link": "https://www.krishnadeco.com/",
+        "images": [
+            "/images/projects/bigwigply/0.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Lytebryte",
+        "title": "Ed-tech Startup",
+        "description": "Lytebryte is an innovative ed-tech startup dedicated to revolutionizing education by providing cutting-edge learning solutions and technologies.",
+        "link": "",
+        "images": [
+            "/images/projects/lytebryte/0.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Krishiyan",
+        "title": "Personalized Crop Advisory",
+        "description": "Krishiyan offers a personalized crop advisory platform that utilizes advanced technologies and expert knowledge to assist farmers in maximizing their agricultural yield.",
+        "link": "https://krishiyan.com/",
+        "images": [
+            "/images/projects/krishiyan/0.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "YourFarm",
+        "title": "End-to-End Animal Husbandry Platform",
+        "description": "YourFarm is an innovative platform providing end-to-end solutions for animal husbandry, including livestock management, healthcare, and farm optimization.",
+        "link": "https://yourfarm.co.in/",
+        "images": [
+            "/images/projects/yourfarm/0.png"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Onwayz",
+        "title": "Social Media Platform Development Stage",
+        "description": "Onwayz is an exciting social media platform currently in the development stage, aiming to connect individuals and foster meaningful connections in a unique way.",
+        "link": "",
+        "images": [
+            "/images/projects/onwayz/0.png"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Pallvicare",
+        "title": "Telemedicine Development Stage",
+        "description": "Pallvicare is an upcoming telemedicine platform that aims to provide convenient access to healthcare services, allowing patients to consult with doctors remotely.",
+        "link": "",
+        "images": [
+            "/images/projects/pallvicare/0.png"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "MGB and CO.",
+        "title": "Multi-disciplinary Full Service Firm",
+        "description": "MGB & Co. is a highly reputable multi-disciplinary full-service firm offering comprehensive solutions in assurance, legal advisory, taxation, corporate finance, IT risk, and cyber security.",
+        "link": "https://www.mgbadvisors.com",
+        "images": [
+            "/images/projects/mgb/0.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Amantra Living",
+        "title": "Real Estate Platform",
+        "description": "Amantra Living is a leading real estate platform that provides a wide range of properties and facilitates seamless transactions, ensuring customer satisfaction.",
+        "link": "https://www.amantaraliving.com/",
+        "images": [
+            "/images/projects/amantara/1.png"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "ContractFlo",
+        "title": "SaaS for Real Estate Developers",
+        "description": "ContractFlo is a software-as-a-service (SaaS) platform specifically designed for real estate developers, streamlining contract management processes and enhancing efficiency.",
+        "link": "https://www.contractflo.com/about",
+        "images": [
+            "/images/projects/contractflo/0.jpg"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Gridflow HK",
+        "title": "AI Software for EV Charging Infrastructure",
+        "description": "Gridflow HK specializes in developing advanced AI software solutions for electric vehicle (EV) charging infrastructure, optimizing charging processes and promoting sustainability.",
+        "link": "https://www.grdflo.com/",
+        "images": [
+            "/images/projects/gridflow/0.jpg"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Enhance PT",
+        "title": "Workout Digitalized Platform",
+        "description": "Enhance PT is a digitalized platform that offers personalized workout programs and fitness guidance to help individuals achieve their fitness goals effectively.",
+        "link": "https://www.enhancept.com.au/",
+        "images": [
+            "/images/projects/enhance/1.png"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Organics Mantra",
+        "title": "Online Organic Grocery Store",
+        "description": "Organic Mantra is an online organic grocery store that provides a wide selection of high-quality organic products, promoting a healthy and sustainable lifestyle.",
+        "link": "https://www.organicsmantra.in/",
+        "images": [
+            "/images/projects/organics-mantra/0.jpg"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Natours",
+        "title": "UI/UX for a Travel Blog Website",
+        "description": "Natours specializes in creating captivating user interfaces and user experiences for travel blog websites, offering seamless navigation and visually appealing designs.",
+        "link": "https://natours-ten-tan.vercel.app/",
+        "images": [
+            "/images/projects/natours/0.jpg"
+        ]
+    }
+]

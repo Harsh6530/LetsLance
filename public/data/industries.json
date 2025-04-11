@@ -1,0 +1,166 @@
+[
+    {
+        "id": 1,
+        "title": "Fintech",
+        "projects": [
+            1
+        ],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    },
+    {
+        "id": 2,
+        "title": "Digital Marketing",
+        "projects": [
+            3
+        ],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    },
+    {
+        "id": 3,
+        "title": "Manufacturing",
+        "projects": [
+            4
+        ],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    },
+    {
+        "id": 4,
+        "title": "Construction",
+        "projects": [
+            4
+        ],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    },
+    {
+        "id": 5,
+        "title": "Education technology",
+        "projects": [
+            5
+        ],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    },
+    {
+        "id": 6,
+        "title": "Agritech",
+        "projects": [
+            6,
+            7
+        ],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    },
+    {
+        "id": 7,
+        "title": "Social Media",
+        "projects": [
+            8
+        ],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    },
+    {
+        "id": 8,
+        "title": "Telemedicine",
+        "projects": [
+            9
+        ],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    },
+    {
+        "id": 9,
+        "title": "Assurance, Govt & Risk Management",
+        "projects": [
+            10
+        ],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    },
+    {
+        "id": 10,
+        "title": "Legal Advisory",
+        "projects": [
+            10
+        ],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    },
+    {
+        "id": 11,
+        "title": "Taxation and Corporate Finance",
+        "projects": [
+            10
+        ],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    },
+    {
+        "id": 12,
+        "title": "IT Risk & Cyber Security",
+        "projects": [
+            10
+        ],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    },
+    {
+        "id": 13,
+        "title": "CSR & Sustainability",
+        "projects": [
+            10
+        ],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    },
+    {
+        "id": 14,
+        "title": "Real Estate",
+        "projects": [
+            11,
+            12
+        ],
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets",
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Artificial Intelligence",
+        "projects": [
+            13
+        ],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    },
+    {
+        "id": 16,
+        "title": "Lifestyle",
+        "projects": [
+            14,
+            15,
+            16
+        ],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    },
+    {
+        "id": 17,
+        "title": "Consulting",
+        "projects": [
+            2
+        ],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    },
+    {
+        "id": 18,
+        "title": "E-commerce",
+        "projects": [],
+        "image": "https://static.vecteezy.com/system/resources/previews/002/082/066/original/abstract-technology-chip-processor-background-circuit-board-and-html-code-3d-illustration-blue-technology-background-vector.jpg",
+        "description": "Portfolios of diversified infrastructure and real estate equity and debt across public and private markets"
+    }
+]
