@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     // <section className="p-page flex flex-col items-center justify-center ">
     //   <h1 className="font-poppins mb-4 text-4xl font-bold text-front md:text-6xl mobile:text-center">
-    //     Welcome to LetsLanceHK
+    //     Welcome to LetsLance
     //   </h1>
     //   <p className="text-center text-lg text-front md:text-xl mobile:text-base">
     //     Your premier destination for top-notch tech outsourcing, website
@@ -34,7 +34,7 @@ export default function Hero() {
         <div className="p-page absolute left-0 top-0 flex h-full w-full ">
           <div className="flex w-1/2 flex-col gap-y-5 mobile:w-[90%] mobile:pt-48 widescreen:justify-center">
             <h1 className="font-tienne text-5xl font-medium leading-tight text-back drop-shadow-lg">
-              Welcome to LetsLanceHK
+              Welcome to LetsLance
             </h1>
             <p className="text-lg text-back">
               Your premier destination for top-notch tech outsourcing, website

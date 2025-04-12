@@ -24,7 +24,7 @@ export default function Hero() {
     //     <p className="mobile:text-sm">
     //       <br />
     //       Have a question, a project idea, or simply want to learn more about
-    //       our services? Don't hesitate to get in touch with us. At LetsLanceHK,
+    //       our services? Don't hesitate to get in touch with us. At LetsLance,
     //       we value open communication and are here to provide you with the
     //       information and assistance you need.
     //       <br />
@@ -60,7 +60,7 @@ export default function Hero() {
             <p className="text-lg text-back mobile:text-base">
               Have a question, a project idea, or simply want to learn more
               about our services? Don't hesitate to get in touch with us. At
-              LetsLanceHK, we value open communication and are here to provide
+              LetsLance, we value open communication and are here to provide
               you with the information and assistance you need.
               <br />
               Our team of experts is ready to guide you through the process,

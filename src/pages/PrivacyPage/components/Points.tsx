@@ -2,10 +2,10 @@ export default function Points() {
   return (
     <div className="p-page flex flex-col gap-y-4 bg-background py-12 text-xl font-bold text-primary">
       <div>
-        Your privacy is important to us. LetsLanceHK is committed to respect
+        Your privacy is important to us. LetsLance is committed to respect
         your privacy while using our website and mobile application. This Policy
         defines the requirements to ensure compliance with the applicable data
-        privacy laws and regulations applicable to LetsLanceHK’s collection,
+        privacy laws and regulations applicable to LetsLance’s collection,
         use, and transmission of Personal Data for information collected by us
         on our website.
       </div>

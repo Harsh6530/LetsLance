@@ -4,7 +4,7 @@ import json
 
 
 def clean(string):
-    return string.replace('\b', '').replace('\n', '').replace('\t', '').replace('\r', '').replace('TatvaSoft', 'LetsLanceHK').replace('tatvasoft', 'LetsLanceHK').replace('Tatvasoft', 'LetsLanceHK')
+    return string.replace('\b', '').replace('\n', '').replace('\t', '').replace('\r', '').replace('TatvaSoft', 'LetsLance').replace('tatvasoft', 'LetsLance').replace('Tatvasoft', 'LetsLance')
 
 
 # print(urls)

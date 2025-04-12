@@ -17,13 +17,13 @@ export default function KnowMore() {
           expanded ? "mb-2 mt-10 max-h-[300vh]" : "m-0 max-h-0"
         )}
       >
-        Welcome to LetsLanceHK, your trusted partner for all your tech
+        Welcome to LetsLance, your trusted partner for all your tech
         outsourcing, website development, app development, and more. Based in
         the vibrant city of Hong Kong, we take pride in delivering exceptional
         services that drive your business forward.
         <br />
         <br />
-        At LetsLanceHK, we understand that the key to delivering high-quality
+        At LetsLance, we understand that the key to delivering high-quality
         services lies in our team of happy and diligent developers. We go beyond
         just being experts in our respective fields - we are passionate
         individuals who genuinely love what we do. This passion reflects in the
@@ -53,14 +53,14 @@ export default function KnowMore() {
         developers consistently exceed expectations.
         <br />
         <br />
-        When you choose LetsLanceHK, you're not just partnering with a company;
+        When you choose LetsLance, you're not just partnering with a company;
         you're collaborating with a team of talented professionals who are
         driven to see your business succeed. We understand that your success is
         our success, and that's why we are dedicated to providing you with
         unparalleled services.
         <br />
         <br />
-        Experience the LetsLanceHK difference, where our happy and diligent
+        Experience the LetsLance difference, where our happy and diligent
         developers are ready to turn your visions into reality. Contact us today
         to discuss your project requirements and discover how we can deliver the
         highest quality solutions tailored to your business needs.
